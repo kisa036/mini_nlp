@@ -1,0 +1,9 @@
+﻿action,pattern
+tv_volume_up,볼륨 올려
+tv_volume_down,볼륨 내려
+sh_device_power_on,iot_device 켜줘
+sh_device_power_off,iot_device 꺼줘
+wt_search_weather,dt_day 날씨
+wt_search_weather,dt_day 날씨 알려줘
+wt_search_weather,lc_city 날씨
+wt_search_weather,lc_city 날씨 알려줘

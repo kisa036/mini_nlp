@@ -1,0 +1,6 @@
+﻿action,ne
+tv_volume_up:,
+tv_volume_down:,
+sh_device_power_on:,iot_device
+sh_device_power_off:,iot_device
+wt_search_weather:,"dt_day, lc_city"
