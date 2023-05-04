@@ -1,6 +1,7 @@
 action,ne
-tv_volume_up,
-tv_volume_down,
-sh_device_power_on,iot_device
-sh_device_power_off,iot_device
-wt_search_weather,dt_day
+volume_up,
+volume_down,
+iot_device_power_on,iot_device
+iot_device_power_off,iot_device
+search_weather,dt_day
+search_contents,contents_title
